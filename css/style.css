@@ -38,7 +38,7 @@ nav li{
 	/*color: black;*/
 }
 #intropost1 .jumbotron{
-	background: url('../pictures/posts/blog_cong_diary_bs5/blog_cong_diary_bs5.png');
+	background: url('../images/posts/blog_cong_diary_bs5/blog_cong_diary_bs5.png');
 	background-size: cover;
     background-repeat: no-repeat;
 	background-position: 50%;
@@ -46,7 +46,7 @@ nav li{
     margin-bottom: 0px;
 }
 #intro .jumbotron{
-	background: url('../pictures/apps.6331.13972495934176350.77374748-b1f4-42eb-b7d2-da8e40deb642.jfif');
+	background: url('../images/apps.6331.13972495934176350.77374748-b1f4-42eb-b7d2-da8e40deb642.jfif');
 	background-size: cover;
     background-repeat: no-repeat;
 	background-position: 50%;
